@@ -1,4 +1,4 @@
-**Billboard Top 100 to Spotify Playlist**
+## Billboard Top 100 to Spotify Playlist
 
 This Python script retrieves the Billboard Hot 100 songs from a specified date and creates a private Spotify playlist with those songs.
 
@@ -39,10 +39,5 @@ Set up environment variables:
 - Songs not found on Spotify will be skipped, and you'll see a message indicating which songs were skipped.
 - A token cache (`token.txt`) is used for Spotify OAuth, which is automatically managed by the script.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to adjust the details such as `yourusername`, project title, and specific setup instructions according to your actual project structure and preferences. This README provides a clear guide for users to set up, use, and understand your Billboard to Spotify playlist converter project on GitHub.
+Make sure to adjust the details such as `yourusername`, project title, and specific setup instructions according to your actual project structure and preferences. 
